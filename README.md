@@ -20,5 +20,4 @@ In summary here are the steps I followed in coming up with the model:
 - Defined and trained the **KNeighborsClassifier** model.
 - Made predictions on the test data.
 - Generates the **accuracy score**, **confusion matrix** and **f1 value score**
-- 
-- 
+
